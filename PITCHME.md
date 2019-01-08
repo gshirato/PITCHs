@@ -14,8 +14,8 @@ I'm doing all right.
 
 ### You guess ?
 
---- code?=example.py
++++code?=sample.js
 
-python code
+js code
 
 ---
